@@ -1,0 +1,1 @@
+creating pointer and array
